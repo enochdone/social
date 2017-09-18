@@ -1,0 +1,14 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "My First Social Networking App",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "author": "Praveen Nakka",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
