@@ -9,6 +9,7 @@
   "author": "Praveen Nakka",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "nodemon": "^1.12.1"
   }
 }
